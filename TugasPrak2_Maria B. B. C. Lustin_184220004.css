@@ -1,0 +1,36 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+p{
+    text-align: justify;
+}
+#box{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+#header{
+    background-color: #f3aa62;
+    padding: 20px;
+}
+#menubar{
+    background-color: #cfc986;
+    margin: auto;
+}
+.teksmenu{
+    text-decoration: none;
+}
+#konten{
+    padding: 20px;
+    margin: auto;
+    background-color: #f6fafc;
+    border-color: black;
+    border-style: double;
+    border-width: 10px;
+    background-image:-webkit-image-set("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3g-SO2PvvXH4m0vENjU8TZ-V6cbIufw6k20pzEyzIoGslkhOuBTDVdMlTvJgIfyMlcEc&usqp=CAU.jpg");
+}
+#footer{
+    background-color: #e9bc5c;
+    padding: 20px;
+}
